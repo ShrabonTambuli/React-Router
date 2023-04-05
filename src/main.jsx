@@ -11,6 +11,7 @@ import Home from './components/Home/Home';
 import Foods from './components/Foods/Foods';
 import Recharts from './components/Recharts/Recharts';
 import About from './components/About/About';
+import FoodDetails from './components/FoodDetails/FoodDetails';
 
 
 const router = createBrowserRouter([
@@ -26,6 +27,11 @@ const router = createBrowserRouter([
         path: "/foods",
         element: <Foods />,
         loader: ()=> fetch('../public/pizza.json')
+      },
+      {
+        path: "/foods/:foodId",
+        element: <FoodDetails/>,
+        loader: ({params}) => fetch(`${params.foodId}`)
       },
       {
         path: "/recharts",
