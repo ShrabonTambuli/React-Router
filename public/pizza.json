@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "price": 467,
+    "image": "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_244706695.jpg.webp",
+    "Name": "Margherita Pizza",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 1,
+    "price": 487,
+    "image": "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_184944413.jpg.webp",
+    "Name": "Aussie Pizza",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 2,
+    "price": 580,
+    "image": "https://crazymasalafood.com/wp-content/images/2022/01/BBQ-Chicken-Pizza-696x464.jpg.webp",
+    "Name": "BBQ Chicken Pizza",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 3,
+    "price": 550,
+    "image": "https://crazymasalafood.com/wp-content/images/2022/01/Pepperoni-pizza-696x464.jpg.webp",
+    "Name": "Pepperoni Pizza",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 4,
+    "price": 520,
+    "image": "https://crazymasalafood.com/wp-content/images/2022/01/Deluxe-Veggie-Pizza-696x464.jpg.webp",
+    "Name": "Deluxe Veggie Pizza",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 5,
+    "price": 450,
+    "image": "https://crazymasalafood.com/wp-content/images/2022/01/Mexican-Green-Wave-Pizza-696x461.jpg.webp",
+    "Name": "Mexican Green Wave Pizza",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 6,
+    "price": 495,
+    "image": "https://crazymasalafood.com/wp-content/images/2022/01/Quattro-Formaggi-696x464.jpg.webp",
+    "Name": "Quattro Formaggi",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 7,
+    "price": 350,
+    "image": "https://crazymasalafood.com/wp-content/images/2022/01/Pesto-Pizza-696x464.jpg.webp",
+    "Name": "Pesto Pizza",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 8,
+    "price": 380,
+    "image": "https://restaurantclicks.com/wp-content/uploads/2021/09/mushroom-pizza.jpg",
+    "Name": "Mushrooms",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 9,
+    "price": 380,
+    "image": "https://restaurantclicks.com/wp-content/uploads/2021/09/pizza-with-onions.jpg",
+    "Name": "Onions",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 10,
+    "price": 380,
+    "image": "https://restaurantclicks.com/wp-content/uploads/2021/09/Chicken-Pizza.jpg",
+    "Name": "Chicken",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  },
+  {
+    "id": 11,
+    "price": 390,
+    "image": "https://restaurantclicks.com/wp-content/uploads/2021/09/Tomato-And-Basil-Pizza.jpg",
+    "Name": "Tomato and Basil",
+    "details": "If you are going for a classic style margarita pizza, then the perfect topping is tomato and basil.",
+    "rating": "9/10"
+  }
+]

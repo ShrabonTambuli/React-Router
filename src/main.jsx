@@ -25,6 +25,7 @@ const router = createBrowserRouter([
       {
         path: "/foods",
         element: <Foods />,
+        loader: ()=> fetch('../public/pizza.json')
       },
       {
         path: "/recharts",
